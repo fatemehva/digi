@@ -321,7 +321,7 @@ body>a>div.markett>div.takh>div::after{
     position: absolute;
     right: -3px;
     bottom: -5px;
-    font-size: 5px;
+    font-size: 14px;
 }
 body>a>div.markett>div.option{
     display: inline-block;
@@ -658,7 +658,7 @@ div.plus>div.b>a>p , div.plus>div.c>a>p{
 }
 div.plus>div.b>a>span , div.plus>div.c>a>span{
     display: inline-block;
-    font-size: 5px;
+    font-size: 10px;
 
 }
 div.plus>div.b>img , div.plus>div.c>img{
@@ -859,7 +859,7 @@ div.bazdid>div>a>p{
 div.bazdid>div>a>span{
     display: inline-block;
     text-align: center;
-    font-size: 3px;
+    font-size: 10px;
 
 
 }
@@ -1041,7 +1041,7 @@ div.montakhab>a>p{
 }
 div.montakhab>a>span{
     display: inline-block;
-    font-size: 3px;
+    font-size: 10px;
 }
     
 

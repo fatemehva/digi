@@ -53,6 +53,7 @@ div.menu > nav > ul > li > a {
   font-weight: bold;
   position: relative;
   vertical-align: top;
+  text-align: center;
 }
 
 div.menu > nav > ul > li > a >span{
@@ -92,14 +93,17 @@ div.menu > nav > ul > li > a:nth-of-type(8) {
   font-size: 14px;
 
 }
+
 div.menu > nav > ul > li > a:nth-of-type(1):hover>div,
 div.menu > nav > ul > li > a:nth-of-type(2):hover>div,
 div.menu > nav > ul > li > a:nth-of-type(3):hover>div,
 div.menu > nav > ul > li > a:nth-of-type(4):hover>div,
-div.menu > nav > ul > li > a:nth-of-type(5):hover>div,
+div.menu > nav > ul > li > a:nth-of-type(5):hover>div{
+  width: calc(100% + 10px);
+}
+
 div.menu > nav > ul > li > a:nth-of-type(6):hover>div,
 div.menu > nav > ul > li > a:nth-of-type(7):hover>div {
-  /* border-bottom: 0.2rem solid red; */
   width: 100%;
 }
 div.menu> nav>ul>li>a>div{
@@ -109,6 +113,7 @@ div.menu> nav>ul>li>a>div{
   position: absolute;
   bottom: 0;
   left: 0;
+  text-align: center;
   transition: 300ms;
   -webkit-transition: 300ms;
   -moz-transition: 300ms;
