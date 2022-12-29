@@ -49,12 +49,12 @@ div.menu > nav > ul > li > a {
   line-height: 40px;
   text-decoration: none;
   color: black;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: bold;
   position: relative;
   vertical-align: top;
-  
 }
+
 div.menu > nav > ul > li > a >span{
   display: inline-block;
   width: 10px;
@@ -62,13 +62,13 @@ div.menu > nav > ul > li > a >span{
   line-height: 40px;
   text-decoration: none;
   color: rgb(110, 110, 113);
-  font-size: 16px;
-  font-weight: bold;
+  font-size: 14px;
   position: absolute;
   vertical-align: top;
   right: 1px;
 
 }
+
 
 div.menu > nav > ul > li >div.vl{
   display: inline-block;
@@ -89,7 +89,8 @@ div.menu > nav > ul > li > a:nth-of-type(6),
 div.menu > nav > ul > li > a:nth-of-type(7),
 div.menu > nav > ul > li > a:nth-of-type(8) {
   color: rgb(110, 110, 113);
-  font-size: 10px;
+  font-size: 14px;
+
 }
 div.menu > nav > ul > li > a:nth-of-type(1):hover>div,
 div.menu > nav > ul > li > a:nth-of-type(2):hover>div,

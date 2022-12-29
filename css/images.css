@@ -846,9 +846,9 @@ div.bazdid>div>a{
     text-align: center;
     text-decoration: none;
     color: rgb(38, 206, 209);
-    position: relative;
-    right:calc(50% - 100px/2);
-    top: 45px;
+    position: absolute;
+    bottom: 45px;
+    left: calc(50% - 100px/2);
     
 }
 div.bazdid>div>a>p{
