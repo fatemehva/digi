@@ -5,9 +5,16 @@
   }
   body {
     min-height: 2000px;
-    top: 150px;
+    top: 90px;
     position: relative;
   }
+
+
+
+
+
+
+
 
 div.slider{
     width: 100%;
@@ -267,9 +274,14 @@ background: linear-gradient(90deg, rgba(239,58,79,1) 0%, rgba(239,58,79,1) 45%, 
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
 }
+div.mySwiper1 >div.swiper-wrapper>div.swiper-slide>a{
+  text-decoration: none;
+ color: rgb(45,45,45);
+
+}
 
 
-div.mySwiper1 >div.swiper-wrapper>div.swiper-slide>div.h{
+div.mySwiper1 >div.swiper-wrapper>div.swiper-slide>a>div.h{
   width: 60px;
   height: 60px;
   border: 2px solid  rgb(38, 206, 209);
@@ -282,11 +294,11 @@ div.mySwiper1 >div.swiper-wrapper>div.swiper-slide>div.h{
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
 }
-div.mySwiper1 >div.swiper-wrapper>div.swiper-slide>div.h>span{
+div.mySwiper1 >div.swiper-wrapper>div.swiper-slide>a>div.h>span{
  padding: 20px;
  color: rgb(38, 206, 209);
 }
-div.mySwiper1 >div.swiper-wrapper>div.swiper-slide>p{
+div.mySwiper1 >div.swiper-wrapper>div.swiper-slide>a>p{
   width: 100px;
 position: absolute;
 right: calc(50% - 100px/2);

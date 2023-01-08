@@ -58,14 +58,14 @@ div.menu>nav>ul>li>div.submenu>ul>li>div.market>div.a>ul{
 }
 div.menu>nav>ul>li>div.submenu>ul>li>div.market>div.a>ul>li{
     width: 100%;
-    height: 40px;
+    height: 30px;
     margin-bottom: 2px;
     display: inline-block;
 
 }
 div.menu>nav>ul>li>div.submenu>ul>li>div.market>div.a>ul>li:hover>a{
     width: 100%;
-    height: 40px;
+    height: 30px;
     color: red;
 }
 
@@ -77,7 +77,7 @@ div.menu>nav>ul>li>div.submenu>ul>li>div.market>div.a>ul>li>a{
     height: inherit;
     text-decoration:none ;
     text-align: right;
-    line-height: 20px;
+    line-height: 30px;
     color: black;
     font-size: 14px;
     padding: 0 10px;
@@ -90,7 +90,7 @@ div.menu>nav>ul>li>div.submenu>ul>li>div.market>div.a>ul>li>ul{
 }
 div.menu>nav>ul>li>div.submenu>ul>li>div.market>div.a>ul>li>ul>li{
     width: 100%;
-    height: 40px;
+    height: 30px;
     display: inline-block;
     
 
@@ -102,7 +102,7 @@ div.menu>nav>ul>li>div.submenu>ul>li>div.market>div.a>ul>li>ul>li>a{
     height: inherit;
     text-decoration:none ;
     text-align: right;
-    line-height: 40px;
+    line-height: 30px;
     color: black;
     font-size: 14px;
     padding: 0 10px;
@@ -155,7 +155,7 @@ div.menu>nav>ul>li>div.submenu>ul>li>div.market>div.b>ul{
 }
 div.menu>nav>ul>li>div.submenu>ul>li>div.market>div.b>ul>li{
     width: 100%;
-    height: 40px;
+    height: 30px;
     display: inline-block;
     
 
@@ -167,7 +167,7 @@ div.menu>nav>ul>li>div.submenu>ul>li>div.market>div.b>ul>li>a{
     height: inherit;
     text-decoration:none ;
     text-align: right;
-    line-height: 40px;
+    line-height: 30px;
     color: black;
     font-size: 14px;
     padding: 0 10px;
@@ -217,7 +217,7 @@ div.menu>nav>ul>li>div.submenu>ul>li>div.market>div.c>ul{
 }
 div.menu>nav>ul>li>div.submenu>ul>li>div.market>div.c>ul>li{
     width: 100%;
-    height: 40px;
+    height: 30px;
     display: inline-block;
     
 
@@ -229,7 +229,7 @@ div.menu>nav>ul>li>div.submenu>ul>li>div.market>div.c>ul>li>a{
     height: inherit;
     text-decoration:none ;
     text-align: right;
-    line-height: 40px;
+    line-height: 30px;
     color: black;
     font-size: 14px;
     padding: 0 10px;
@@ -280,7 +280,7 @@ div.menu>nav>ul>li>div.submenu>ul>li>div.market>div.d>ul{
 }
 div.menu>nav>ul>li>div.submenu>ul>li>div.market>div.d>ul>li{
     width: 100%;
-    height: 40px;
+    height: 30px;
     display: inline-block;
     
 
@@ -292,7 +292,7 @@ div.menu>nav>ul>li>div.submenu>ul>li>div.market>div.d>ul>li>a{
     height: inherit;
     text-decoration:none ;
     text-align: right;
-    line-height: 40px;
+    line-height: 30px;
     color: black;
     font-size: 14px;
     padding: 0 10px;

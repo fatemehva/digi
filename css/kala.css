@@ -87,7 +87,8 @@ div.menu>nav>ul>li>div.submenu>ul>li>div.kala>div.a>ul>li>ul{
 }
 div.menu>nav>ul>li>div.submenu>ul>li>div.kala>div.a>ul>li>ul>li{
     width: 100%;
-    height: 40px;
+    height: 30px;
+    line-height: 30px;
     display: inline-block;
     
 
@@ -96,10 +97,10 @@ div.menu>nav>ul>li>div.submenu>ul>li>div.kala>div.a>ul>li>ul>li{
 div.menu>nav>ul>li>div.submenu>ul>li>div.kala>div.a>ul>li>ul>li>a{
     display: block;
     width: inherit;
-    height: inherit;
+    height: 30px;
     text-decoration:none ;
     text-align: right;
-    line-height: 40px;
+    line-height: 30px;
     color: black;
     font-size: 14px;
     padding: 0 10px;
@@ -152,8 +153,10 @@ div.menu>nav>ul>li>div.submenu>ul>li>div.kala>div.b>ul{
 }
 div.menu>nav>ul>li>div.submenu>ul>li>div.kala>div.b>ul>li{
     width: 100%;
-    height: 40px;
+    height: 30px;
+    line-height: 30px;
     display: inline-block;
+
     
 
 }
@@ -164,7 +167,7 @@ div.menu>nav>ul>li>div.submenu>ul>li>div.kala>div.b>ul>li>a{
     height: inherit;
     text-decoration:none ;
     text-align: right;
-    line-height: 40px;
+    line-height: 30px;
     color: black;
     font-size: 14px;
     padding: 0 10px;
@@ -214,7 +217,7 @@ div.menu>nav>ul>li>div.submenu>ul>li>div.kala>div.c>ul{
 }
 div.menu>nav>ul>li>div.submenu>ul>li>div.kala>div.c>ul>li{
     width: 100%;
-    height: 40px;
+    height: 30px;
     display: inline-block;
     
 
@@ -226,7 +229,7 @@ div.menu>nav>ul>li>div.submenu>ul>li>div.kala>div.c>ul>li>a{
     height: inherit;
     text-decoration:none ;
     text-align: right;
-    line-height: 40px;
+    line-height: 30px;
     color: black;
     font-size: 14px;
     padding: 0 10px;
@@ -277,7 +280,7 @@ div.menu>nav>ul>li>div.submenu>ul>li>div.kala>div.d>ul{
 }
 div.menu>nav>ul>li>div.submenu>ul>li>div.kala>div.d>ul>li{
     width: 100%;
-    height: 40px;
+    height: 30px;
     display: inline-block;
     
 
@@ -289,7 +292,7 @@ div.menu>nav>ul>li>div.submenu>ul>li>div.kala>div.d>ul>li>a{
     height: inherit;
     text-decoration:none ;
     text-align: right;
-    line-height: 40px;
+    line-height: 30px;
     color: black;
     font-size: 14px;
     padding: 0 10px;
